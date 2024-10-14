@@ -1,0 +1,7 @@
+gradio 
+numpy 
+cv2
+base64
+Counter
+matplotlib
+tensorflow 
